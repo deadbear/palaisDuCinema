@@ -36,7 +36,7 @@ void setup() {
   if (NIX) {
     DMXPRO_PORT = "/dev/ttyACM0";//case matters ! on windows port must be upper cased.
   } else if (MAC) {
-    DMXPRO_PORT = "/dev/usbserial-????????";//case matters ! on windows port must be upper cased.
+    DMXPRO_PORT = "/dev/tty.usbserial-ENQ9C839";//case matters ! on windows port must be upper cased.
   } else if (WINDOWS) {
     DMXPRO_PORT = "COM4";//case matters ! on windows port must be upper cased
   } else {
