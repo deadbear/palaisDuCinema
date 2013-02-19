@@ -13,7 +13,7 @@ so->
 
 -move the 'libraries' folder to the same 'sketchbook' folder...
 
--place a movie file in the 'data' folder (where the 'dummy.mov.avi.mkv.txt' place holder is) 
+-place a movie file in the 'data' folder (where the 'dummy.mov.avi.mkv.txt' place holder is)
 ...............{movie must be a file to play but can be a bunch of different types of files}}}}}}}}}}}
 
 -rename the movie file something descriptive, short, and easy to remember  {like beckett.avi or porn1.mov or....}
